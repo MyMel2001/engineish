@@ -1,4 +1,4 @@
-The Sammy Public License Revision 5 Sub-Revision 3 with Exemptions (SPL-R5 SR2 EX)
+The Sammy Public License Revision 5 Sub-Revision 3 (SPL-R5 SR2)
 
 Copyright (c) Sammy Lord
 
@@ -16,7 +16,7 @@ In addition, the owner of the code is granted the authority to update their copy
 
 Minimum Payment Requirements by Business Size:
 
-1. Fortune 500 Companies: Companies that are included in the Fortune 500 list are required to make a monthlu contribution of at least 42,069 USD or an equivalent amount per project used to support the sustainability of the Software, unless no donation option is provided. Additionally, Fortune 500 companies are required to contribute their changes upstream to the Software.
+1. Fortune 500 Companies: Companies that are included in the Fortune 500 list are required to make a monthly contribution of at least 42,069 USD or an equivalent amount per project used to support the sustainability of the Software, unless no donation option is provided. Additionally, Fortune 500 companies are required to contribute their changes upstream to the Software.
 
 2. Large Non-Fortune 500 Companies: Non-Fortune 500 large companies (defined as companies with 128 or more employees) must pay a minimum of 2,000 USD per month for the continued use of the Software.
 
@@ -27,9 +27,3 @@ Minimum Payment Requirements by Business Size:
 These fees are intended to ensure the sustainability of the project and may be subject to change by the project owner(s). Payment is due annually, and the corresponding amount must be paid no later than 30 days after the beginning of each calendar year. Failure to comply with these payment terms may result in revocation of the right to use the Software.
 
 The aforementioned copyright notice and this permission notice must be included in all copies or substantial portions of the Software.
-
-
-Exempt files: 
-
-* src/place.js (Licensed under CC0)
-* src/exampleScripts.js (Licensed under CC0)
